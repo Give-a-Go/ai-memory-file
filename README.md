@@ -1,4 +1,4 @@
-# File Memory Travel Assistant
+# Agentic Memory using File for persistance
 
 A Python-based travel assistant application that uses Google's Agent Development Kit (ADK) to provide personalized travel recommendations. The assistant remembers user preferences and can help with flight searches.
 
