@@ -2,14 +2,6 @@
 
 A Python-based travel assistant application that uses Google's Agent Development Kit (ADK) to provide personalized travel recommendations. The assistant remembers user preferences and can help with flight searches.
 
-## Features
-
-- 🤖 AI-powered travel assistant using Google Gemini
-- 💾 Persistent memory system for user preferences
-- ✈️ Flight search functionality with preference matching
-- 💬 Interactive chat interface
-- 🔄 Session management
-
 ## Requirements
 
 - Python 3.10 or higher
@@ -123,7 +115,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 #### 4. Run the application
 
 ```bash
-python main.py
+uv run python main.py
 ```
 
 ## Getting a Google API Key
