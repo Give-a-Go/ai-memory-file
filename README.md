@@ -66,7 +66,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 #### 5. Run the application
 
 ```bash
-python main.py
+uv run python main.py
 ```
 
 ### Option 2: Setup with pip (Traditional)
@@ -115,7 +115,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 #### 4. Run the application
 
 ```bash
-uv run python main.py
+python main.py
 ```
 
 ## Getting a Google API Key
